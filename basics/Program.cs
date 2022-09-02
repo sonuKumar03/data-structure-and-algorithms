@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using basics.Graph;
+using DataStructure.Graph;
 using System.IO;
-namespace basics
+namespace DataStructure
 {
     class Program
     {

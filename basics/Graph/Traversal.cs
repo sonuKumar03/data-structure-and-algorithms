@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace basics.Graph
+namespace DataStructure.Graph
 {
     public class Traversal
     {
